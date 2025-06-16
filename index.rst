@@ -1,4 +1,4 @@
-How to Enter Code on Peacock TV Step by Step Guide – Visit www.peacocktv.com tv
+How to Enter Code on Peacock TV Step by Step Guide – www.peacocktv.com tv
 ===============
 
 Trying to watch Peacock TV? This guide shows you how to get your shows to play on your TV. Just go to www.peacocktv.com tv. That's the place to start. Think of it as the front door to all the movies and shows you wanna see. once you're there, follow the steps we show you. Let's do this together, one step at a time. You'll be watching your favorite shows super soon.
@@ -50,6 +50,9 @@ To watch Peacock, you'll need to get the Peacock app on your smart TV or streami
 
 **Step by Step Guide To Enter Code And Connecting Your TV to Your Peacocktv.com tv Account**
 ~~~~~~~~~~~~~~~~~~~~~~~~~
+.. image:: instructions.jpg
+   :alt: Official website of peacocktv is www.peacocktv.com tv
+   :target: 
 
 Okay, this is the main part where we use that website to connect our tv: **www.peacocktv.com tv**
 
